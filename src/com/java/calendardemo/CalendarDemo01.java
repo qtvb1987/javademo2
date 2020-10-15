@@ -12,6 +12,7 @@ public class CalendarDemo01 {
         Calendar calendar=Calendar.getInstance();
         //获取年
         int year=calendar.get(calendar.YEAR);
+
         System.out.println(year);
         //获取月
         int month=calendar.get(calendar.MONTH);
