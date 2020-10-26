@@ -18,5 +18,8 @@ public class CalendarDemo01 {
         int month=calendar.get(calendar.MONTH);
         System.out.println(month+1);
 
+        int day=calendar.get(calendar.DAY_OF_MONTH);
+        System.out.println(day);
+
     }
 }
