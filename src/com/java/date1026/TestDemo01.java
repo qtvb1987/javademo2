@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class TestDemo01 {
     public static void main(String[] args) {
-        String [] strs = {"kkbJava","asdjavaccc","Jaasdhva","siaiq","javacjavaz","iloveJava"};
+        String [] strs = {"kkbJava","asdjavaccc","Jaasdhva","siaiq","javacjavaz","iloveJava"}; 
         String strnew="";
         for (int i=0;i<strs.length;i++){
             String str=strs[i].toLowerCase();
